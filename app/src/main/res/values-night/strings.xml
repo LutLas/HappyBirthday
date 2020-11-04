@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="happyBirth">Happy Birthday!</string>
+    <string name="fromName">From LutLas</string>
+    <string name="rollDice">Roll Dice</string>
+    <string name="roll">ROLL</string>
+</resources>
